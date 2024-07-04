@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://your-project-logo-url.com" alt="ForoHub Logo" width="200" height="200">
+</p>
 
-### README.md
+<h1 align="center">ForoHub - API REST con Spring Boot</h1>
 
-```markdown
-# ForoHub - API REST con Spring Boot
+<p align="center">
+  <strong>Una API REST completa para gestionar tópicos en un foro, construida con Spring Boot.</strong>
+</p>
 
-ForoHub es una API REST desarrollada con Spring Boot para gestionar tópicos en un foro.
+---
 
 ### Funcionalidades Principales
 
@@ -14,10 +18,14 @@ ForoHub es una API REST desarrollada con Spring Boot para gestionar tópicos en 
 - **Actualizar Tópico:** Permite actualizar el título y mensaje de un tópico existente.
 - **Eliminar Tópico:** Permite eliminar un tópico por su ID.
 
+---
+
 ### Tecnologías Utilizadas
 
-- Java
-- Spring Boot
-- Spring Data JPA
-- H2 Database (en memoria para desarrollo)
-- Spring Security
+- **Java**
+- **Spring Boot**
+- **Spring Data JPA**
+- **H2 Database** (en memoria para desarrollo)
+- **Spring Security**
+
+---
