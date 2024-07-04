@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://your-project-logo-url.com" alt="ForoHub Logo" width="200" height="200">
-</p>
+ </p>
 
 <h1 align="center">ForoHub - API REST con Spring Boot</h1>
 
